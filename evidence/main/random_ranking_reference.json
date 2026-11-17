@@ -1,0 +1,50 @@
+{
+  "reference_run": "20261105T055420_02d05b15",
+  "reference_manifest_sha256": "f05827893e1eac44fa0c566e3da0f33e2149c30d4739f2f980d6776bf83b15d5",
+  "reference_metrics_sha256": "c70f0163d10c0a768d91ceb86684d489a5ca2b7d5e8b15accfe9795e8b5f61ff",
+  "reference_acceptance_sha256": "942e56e34ef20242a623d2de4fb4c316dc7cd1c92155e7fa6fdbe87d3e247a91",
+  "reference_acceptance_status": "accepted_with_limits",
+  "data_version": "a-data-v1-20261104-r1",
+  "seed": 2026,
+  "batch": 0,
+  "target_acceptance": 0.6,
+  "scope": "Post hoc descriptive reference. The range uses exact hypergeometric 2.5th and 97.5th percentiles from uniform sampling without replacement within each observed singleton pool.",
+  "results": {
+    "S0": {
+      "cohort_size": 1525,
+      "cohort_positive_count": 8,
+      "singleton_pool_size": 1388,
+      "positives_in_negative_singletons": 4,
+      "accepted_quota": 915,
+      "mean_accepted_false_negatives": 2.636887608069164,
+      "central_95_percent_range": [
+        1,
+        4
+      ],
+      "observed_accepted_false_negatives": {
+        "B2": 1,
+        "B3": 2,
+        "B4": 2
+      },
+      "all_observed_inside_range": true
+    },
+    "S4": {
+      "cohort_size": 13921,
+      "cohort_positive_count": 38,
+      "singleton_pool_size": 13575,
+      "positives_in_negative_singletons": 38,
+      "accepted_quota": 8352,
+      "mean_accepted_false_negatives": 23.379447513812156,
+      "central_95_percent_range": [
+        17,
+        29
+      ],
+      "observed_accepted_false_negatives": {
+        "B2": 24,
+        "B3": 24,
+        "B4": 21
+      },
+      "all_observed_inside_range": true
+    }
+  }
+}

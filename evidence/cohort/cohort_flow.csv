@@ -1,0 +1,15 @@
+site,stage,n,any_observed_positive_label,target_transition_proxy,target_onset_within_released_hours,target_onset_beyond_released_hours,observed_rows_min,observed_rows_q25,observed_rows_median,observed_rows_q75,observed_rows_max,first_hour_min,first_hour_q25,first_hour_median,first_hour_q75,first_hour_max,last_hour_min,last_hour_q25,last_hour_median,last_hour_q75,last_hour_max
+A,raw,20336,1790,334,334,0,8.0,25.0,39.0,47.0,336.0,1.0,1.0,1.0,2.0,304.0,8.0,26.0,40.0,48.0,336.0
+A,after_invalid_hourly_records,20336,1790,334,334,0,8.0,25.0,39.0,47.0,336.0,1.0,1.0,1.0,2.0,304.0,8.0,26.0,40.0,48.0,336.0
+A,after_missing_initial_hours,12839,1216,241,241,0,8.0,26.0,39.0,48.0,336.0,1.0,1.0,1.0,1.0,1.0,8.0,26.0,39.0,48.0,336.0
+A,after_insufficient_followup,10174,730,57,57,0,24.0,36.0,43.0,50.0,336.0,1.0,1.0,1.0,1.0,1.0,24.0,36.0,43.0,50.0,336.0
+A,after_first_observation_positive,10174,730,57,57,0,24.0,36.0,43.0,50.0,336.0,1.0,1.0,1.0,1.0,1.0,24.0,36.0,43.0,50.0,336.0
+A,after_onset_at_or_before_12,10174,730,57,57,0,24.0,36.0,43.0,50.0,336.0,1.0,1.0,1.0,1.0,1.0,24.0,36.0,43.0,50.0,336.0
+A,after_invalid_input_demographics,10174,730,57,57,0,24.0,36.0,43.0,50.0,336.0,1.0,1.0,1.0,1.0,1.0,24.0,36.0,43.0,50.0,336.0
+B,raw,20000,1142,152,151,1,8.0,23.0,38.0,47.0,336.0,1.0,1.0,1.0,1.0,26.0,8.0,23.0,38.0,47.0,336.0
+B,after_invalid_hourly_records,20000,1142,152,151,1,8.0,23.0,38.0,47.0,336.0,1.0,1.0,1.0,1.0,26.0,8.0,23.0,38.0,47.0,336.0
+B,after_missing_initial_hours,18704,1059,143,142,1,8.0,23.0,38.0,47.0,336.0,1.0,1.0,1.0,1.0,1.0,8.0,23.0,38.0,47.0,336.0
+B,after_insufficient_followup,13921,638,38,38,0,24.0,37.0,42.0,50.0,336.0,1.0,1.0,1.0,1.0,1.0,24.0,37.0,42.0,50.0,336.0
+B,after_first_observation_positive,13921,638,38,38,0,24.0,37.0,42.0,50.0,336.0,1.0,1.0,1.0,1.0,1.0,24.0,37.0,42.0,50.0,336.0
+B,after_onset_at_or_before_12,13921,638,38,38,0,24.0,37.0,42.0,50.0,336.0,1.0,1.0,1.0,1.0,1.0,24.0,37.0,42.0,50.0,336.0
+B,after_invalid_input_demographics,13921,638,38,38,0,24.0,37.0,42.0,50.0,336.0,1.0,1.0,1.0,1.0,1.0,24.0,37.0,42.0,50.0,336.0

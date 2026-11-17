@@ -1,0 +1,36 @@
+split_seed,model,M,source_M,alpha,method,status,reason
+2026,LR,1,10,0.1,B0,available,
+2026,LR,10,10,0.1,B1,available,
+2026,LR,10,10,0.1,B2,available,
+2026,LR,10,10,0.1,B3,available,
+2026,LR,10,10,0.1,B4,available,
+2026,LR,10,10,0.1,B5,unavailable,"unavailable: 6 errors, 1012 correct; need >=20 each"
+2026,LR,10,10,0.1,B6,unavailable,"unavailable: 6 errors, 1012 correct; need >=20 each"
+2027,LR,1,10,0.1,B0,available,
+2027,LR,10,10,0.1,B1,available,
+2027,LR,10,10,0.1,B2,available,
+2027,LR,10,10,0.1,B3,available,
+2027,LR,10,10,0.1,B4,available,
+2027,LR,10,10,0.1,B5,unavailable,"unavailable: 6 errors, 1012 correct; need >=20 each"
+2027,LR,10,10,0.1,B6,unavailable,"unavailable: 6 errors, 1012 correct; need >=20 each"
+2028,LR,1,10,0.1,B0,available,
+2028,LR,10,10,0.1,B1,available,
+2028,LR,10,10,0.1,B2,available,
+2028,LR,10,10,0.1,B3,available,
+2028,LR,10,10,0.1,B4,available,
+2028,LR,10,10,0.1,B5,unavailable,"unavailable: 6 errors, 1012 correct; need >=20 each"
+2028,LR,10,10,0.1,B6,unavailable,"unavailable: 6 errors, 1012 correct; need >=20 each"
+2029,LR,1,10,0.1,B0,available,
+2029,LR,10,10,0.1,B1,available,
+2029,LR,10,10,0.1,B2,available,
+2029,LR,10,10,0.1,B3,available,
+2029,LR,10,10,0.1,B4,available,
+2029,LR,10,10,0.1,B5,unavailable,"unavailable: 6 errors, 1012 correct; need >=20 each"
+2029,LR,10,10,0.1,B6,unavailable,"unavailable: 6 errors, 1012 correct; need >=20 each"
+2030,LR,1,10,0.1,B0,available,
+2030,LR,10,10,0.1,B1,available,
+2030,LR,10,10,0.1,B2,available,
+2030,LR,10,10,0.1,B3,available,
+2030,LR,10,10,0.1,B4,available,
+2030,LR,10,10,0.1,B5,unavailable,"unavailable: 6 errors, 1012 correct; need >=20 each"
+2030,LR,10,10,0.1,B6,unavailable,"unavailable: 6 errors, 1012 correct; need >=20 each"

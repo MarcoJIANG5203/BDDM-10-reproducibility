@@ -1,0 +1,52 @@
+{
+  "reference_run": "20261105T055420_02d05b15",
+  "reference_manifest_sha256": "f05827893e1eac44fa0c566e3da0f33e2149c30d4739f2f980d6776bf83b15d5",
+  "data_version": "a-data-v1-20261104-r1",
+  "seed": 2026,
+  "batch": 0,
+  "target_acceptance": 0.6,
+  "matched_metric_rows": 12,
+  "match_tolerance": {
+    "relative": 1e-12,
+    "absolute": 1e-14
+  },
+  "tie_break_hashes_matched": 3,
+  "mask_hashes_matched": 2,
+  "source_file_hashes_matched": 13,
+  "q": 0.010980572824885553,
+  "python": "3.14.7 | packaged by Anaconda, Inc. | (main, Aug 14 2026, 10:12:46) [MSC v.1942 64 bit (AMD64)]",
+  "results": {
+    "S0": {
+      "positives": 8,
+      "positive_negative_singletons": 4,
+      "batch": {
+        "both_missed": 1,
+        "only_confidence_missed": 0,
+        "only_disagreement_missed": 1,
+        "neither_missed": 6
+      },
+      "frozen": {
+        "both_missed": 1,
+        "only_confidence_missed": 0,
+        "only_disagreement_missed": 1,
+        "neither_missed": 6
+      }
+    },
+    "S4": {
+      "positives": 38,
+      "positive_negative_singletons": 38,
+      "batch": {
+        "both_missed": 18,
+        "only_confidence_missed": 6,
+        "only_disagreement_missed": 3,
+        "neither_missed": 11
+      },
+      "frozen": {
+        "both_missed": 31,
+        "only_confidence_missed": 2,
+        "only_disagreement_missed": 3,
+        "neither_missed": 2
+      }
+    }
+  }
+}
